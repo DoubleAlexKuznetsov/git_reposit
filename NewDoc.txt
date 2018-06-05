@@ -1,2 +1,2 @@
 print ("Hello world");
-ptrint (@Hello everybody");
+ptrint ("Hello everybody");
